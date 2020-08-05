@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/24718475/89452152-96b57600-d733-11ea-9015-9ca7b552186d.png">
+  <img src="https://user-images.githubusercontent.com/24718475/89452381-f01da500-d733-11ea-9735-0f16aea35986.png">
 </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24718475/89451251-4689e400-d732-11ea-98a6-f1b9a49a4e21.png" width=800 height=600>
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/89451999-640b7d80-d733-11ea-98a9-d42b704af905.png">
+  <img src="https://user-images.githubusercontent.com/24718475/89452336-ded49880-d733-11ea-998a-fe0ad5033fc0.png">
 </p>
 
 <h1>GoBarber</h1>
