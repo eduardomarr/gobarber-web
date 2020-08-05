@@ -15,7 +15,7 @@ através do app. Do lado do prestador de serviços, o profissional pode visualiz
 <p>Confira a aplicação Mobile e API nos links abaixo:</p>
 <ul>
   <li><a href="https://github.com/eduardomarr/GoBarber-backend">GoBarber Mobile</a></li>
-  <li><a href="https://github.com/eduardomarr/GoBarber-backend">GoBarber API</li>
+  <li><a href="https://github.com/eduardomarr/gobarber-backend.git">GoBarber API</li>
 </ul>
 
 <h2>Tecnologias</h2>
