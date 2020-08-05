@@ -1,8 +1,8 @@
 <p align="center">
   <img src="/src/assets/logo.svg">
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/83085545-ae50ee00-a062-11ea-9493-85a66c757486.gif">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/24718475/89451251-4689e400-d732-11ea-98a6-f1b9a49a4e21.png">
 </p>
 <h1>GoBarber</h1>
 <p>O GoBarber é uma aplicação de agendamento para barbearias. Os clientes podem visualizar os horários disponíveis e agendar serviços com o profissional de sua escolha, 
