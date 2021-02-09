@@ -4,7 +4,7 @@ import { FormHandles } from '@unform/core';
 import { Form } from '@unform/web';
 import * as Yup from 'yup';
 import { Link, useHistory } from 'react-router-dom';
-import getValidateErrors from '../../utils/getValidationErrors';
+import getValidationErrors from '../../utils/getValidationErrors';
 import { useToast } from '../../hooks/toast';
 
 import logoImg from '../../assets/logo.svg';
@@ -54,7 +54,7 @@ const SignUp: React.FC = () => {
         });
       } catch (err) {
         if (err instanceof Yup.ValidationError) {
-          const errors = getValidateErrors(err);
+          const errors = getValidationErrors(err);
 
           formRef.current?.setErrors(errors);
         }
